@@ -18,7 +18,7 @@ It is very important to go to the end of the saved HTML file if you are going to
 If the file is so large that the browser cannot process it, you can manually edit the HTML file and save it into smaller parts to split up the process, or use another browser to open the HTML file. (Firefox may use less memory and work, though Edge is also Chromium-based now.)
 
 > # New function to continue where you left off:
-Now you can reload the page if it gets stuck, then just click again to start and continue where you left off. If you need to clear teh cache, there is a button for that too!
+Now you can reload the page if it gets stuck, then just click again to start and continue where you left off. If you need to clear the cache, there is a button for that too!
 
 > # To use offline:
 It is very important to convert the HTML to PDF or it will not be possible to use it offline. (The images have an expiration date.) To convert to PDF, simply open the HTML file, scroll to the bottom as mentioned above so ALL content is loaded, then use CTRL+P to print/save it to PDF. Chrome has this built in, as do most operating, but if not, you can install a free PDF printer.
